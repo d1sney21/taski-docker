@@ -10,7 +10,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', '158.160.191.243', 'd1sney21.hopto.org']
 
-
 # Application definition
 
 INSTALLED_APPS = [
